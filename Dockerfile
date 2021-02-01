@@ -15,7 +15,7 @@ FROM fedora:32
 ARG PRODUCT_NAME="ideaIC"
 
 # Product version
-ARG PRODUCT_VERSION="2020.2.3"
+ARG PRODUCT_VERSION="2020.3.2"
 
 # Product url constructs based on PRODUCT_NAME and PRODUCT_VERSION:
 #   https://download.jetbrains.com/idea/ideaIC-2020.2.3.tar.gz
